@@ -1,5 +1,5 @@
 <div align="center">
 
-![](https://komarev.com/ghpvc/?username=4IZO&color=DD7C38&style=plastic&label=O.o)
+![](https://komarev.com/ghpvc/?username=4IZO&color=c23333&style=plastic&label=INNER-CIRCLE)
 
-<img src="https://github.com/user-attachments/assets/e2b9084d-c8c8-4d44-92d9-0d452fac488d" width="300" />
+<img src="https://github.com/user-attachments/assets/81fffd94-97f1-46ee-a65b-c716eaedb9b1" width="167" />
